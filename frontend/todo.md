@@ -1,4 +1,4 @@
-- email
 - ai-integration
-- switch results div over to the sidebar
+- read pdf/md file in main screen
 - implement this in https://github.com/RonenNess/RPGUI/blob/master/dist/rpgui.min.css
+- gooning
